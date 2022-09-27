@@ -1,4 +1,4 @@
-<h1 align="left">Site Portifólio utilizando HTML, CSS e JavaScript</h1>
+<h1 align="left">Site Portfólio utilizando HTML, CSS e JavaScript</h1>
    
 <h3 align="left">Clique <a href="https://devrailan.github.io/Site-Portifolio/">aqui</a></h3>   
 <img align="center" src="assets/img/Captura de tela 2022-09-27 173900.png">
